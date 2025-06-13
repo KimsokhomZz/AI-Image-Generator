@@ -1,0 +1,21 @@
+{
+  "name": "AI Image Generator",
+  "short_name": "AI ImageGen",
+  "start_url": ".",
+  "display": "standalone",
+  "background_color": "#1e293b",
+  "theme_color": "#f374a4",
+  "description": "Generate AI images from your imagination.",
+  "icons": [
+    {
+      "src": "image/chingchan(192x192).png",
+      "sizes": "192x192",
+      "type": "image/png"
+    },
+    {
+      "src": "image/kon_jpon2(512x512).png",
+      "sizes": "512x512",
+      "type": "image/png"
+    }
+  ]
+}
